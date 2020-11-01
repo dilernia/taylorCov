@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604255160020.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "25|47|30|0|\n33|46|40|0|\n43|48|47|0|\n50|60|59|0|\n62|73|71|0|\n74|44|83|0|\n86|40|95|0|\n98|62|107|0|\n111|44|115|0|\n119|44|123|0|\n126|58|137|0|\n140|62|154|0|\n157|64|190|0|\n193|83|225|0|\n228|48|245|0|\n248|89|369|0|\n372|108|380|0|\n384|54|387|0|\n390|76|444|0|\n447|64|502|0|\n505|46|520|0|\n523|36|530|0|\n533|45|549|0|\n552|59|572|0|\n575|58|585|0|\n588|81|599|0|\n602|59|618|0|\n621|51|632|0|\n635|88|648|0|\n651|53|661|0|\n665|79|740|0|\n743|77|755|0|\n758|66|770|0|\n775|36|807|0|\n",
+    "hash" : "2040506483",
+    "id" : "3E1E17D3",
+    "lastKnownWriteTime" : 1604255639,
+    "last_content_update" : 1604255639525,
+    "path" : "C:/Users/Owner/Dropbox/Minnesota/fMRI Research/taylorCov/src/rcpparma_hello_world.cpp",
+    "project_path" : "src/rcpparma_hello_world.cpp",
+    "properties" : {
+        "cursorPosition" : "246,0",
+        "scrollLine" : "127"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}

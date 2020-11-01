@@ -1,0 +1,11 @@
+Package: taylorCov
+Type: Package
+Title: Inference of Partial Correlations for a Multivariate Time Series
+Version: 1.0
+Date: 2020-11-01
+Author: Andrew DiLernia
+Maintainer: Andrew DiLernia <andrew.s.dilernia@gmail.com>
+Description: This packages implements methods for estimating asymptotic covariance matrices of partial correlations for weakly stationary multivariate time series.
+License: MIT + file LICENSE
+Imports: Rcpp (>= 1.0.5), MASS, parallel, np
+LinkingTo: Rcpp, RcppArmadillo, RcppEigen
