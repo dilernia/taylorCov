@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1604259286145.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "956565929",
+    "id" : "E8CC2F4D",
+    "lastKnownWriteTime" : 1604259377,
+    "last_content_update" : 1604259377520,
+    "path" : "C:/Users/Owner/Dropbox/Minnesota/fMRI Research/taylorCov/man/taylorCov-package.Rd",
+    "project_path" : "man/taylorCov-package.Rd",
+    "properties" : {
+        "cursorPosition" : "33,3",
+        "scrollLine" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
